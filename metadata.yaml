@@ -1,0 +1,25 @@
+_repo: Le-Bourdeau-des-neuf-pucelles_66781
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Féret, Charles-Théophile
+    alias: Feret, Charles-Theophile
+    birthdate: 1858
+    deathdate: 1928
+    gutenberg_agent_id: '53956'
+    url: http://www.gutenberg.org/2009/agents/53956
+    wikipedia: https://fr.wikipedia.org/wiki/Charles-Th%C3%A9ophile_F%C3%A9ret
+description: ''
+gutenberg_issued: '2021-11-21'
+identifiers:
+  gutenberg: '66781'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French poetry -- 20th century'
+- GITenberg
+title: Le Bourdeau des neuf pucelles
+url: http://www.gutenberg.org/ebooks/66781
