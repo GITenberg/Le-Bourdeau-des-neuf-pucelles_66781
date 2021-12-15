@@ -1,5 +1,8 @@
 _repo: Le-Bourdeau-des-neuf-pucelles_66781
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66781-h/images/cover.jpg
 creator:
   author:
     agent_name: Féret, Charles-Théophile
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53956
     wikipedia: https://fr.wikipedia.org/wiki/Charles-Th%C3%A9ophile_F%C3%A9ret
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66781#Le-Bourdeau-des-neuf-pucelles
 gutenberg_issued: '2021-11-21'
 identifiers:
   gutenberg: '66781'
